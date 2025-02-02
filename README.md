@@ -10,4 +10,5 @@ Cygnus extension is an extension of Cygnus that will run the game logic, for exa
 
 ## Questions
 A: Why didn't just implement the game in Cygnus?
+
 B: Because our server is will be dynamically changed overtime. And we can't just implement all of the games logic into Cygnus itself, because it would make the server size larger.
